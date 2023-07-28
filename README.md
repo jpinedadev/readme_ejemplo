@@ -3,7 +3,6 @@
 
 ---
 
-<p><a></a></p>
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
@@ -26,7 +25,6 @@
 <p><img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png" alt="enter image description here"></p>
 <p>Describir la problematica , como fue resuelta y que tecnologias se usaron.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel eros elit. Integer rutrum rhoncus porta. Phasellus interdum, dolor eu pharetra bibendum, leo dolor dignissim magna, a luctus purus ex venenatis dui. Proin quam est, euismod non enim non, varius venenatis lacus. Duis volutpat enim non suscipit sodales. Integer imperdiet, nibh ut imperdiet molestie, ante magna facilisis justo, ac semper nulla ligula quis enim. Ut venenatis, augue sed scelerisque hendrerit, diam dui pretium dolor, a lacinia orci urna et sapien. Nulla elementum viverra pretium. Proin molestie quis dolor at venenatis. Donec consectetur nisi dolor, quis ultrices turpis laoreet vitae. Pellentesque auctor nec turpis ac sollicitudin. Cras in augue efficitur, placerat justo vel, volutpat tortor.</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <h2 id="tecnologías">Tecnologías</h2>
 <p>Estas son las tecnologías que utilicé para desarrollar el proyecto.</p>
 <ul>
@@ -36,7 +34,6 @@
 <li>JavaScript</li>
 <li>Bootstrap</li>
 </ul>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 <h2 id="empezando">Empezando</h2>
 <p>Sigue las instrucciones para poder tener una copia y ejecutar este proyecto de forma local en tu ordenador.</p>
@@ -70,11 +67,9 @@
 </code></pre>
 </li>
 </ol>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
 <h2 id="uso">Uso</h2>
 <p>Screenshots adicionales.</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ROADMAP -->
 <h2 id="ruta">Ruta</h2>
 <ul>
@@ -90,7 +85,6 @@
 </li>
 </ul>
 <p>Lista de <a href="https://github.com/jpinedadev/PROYECOT_NOMBRE/issues">issues</a> para ver las nuevas funciones y caracteristicas propuestas asi como los issues.</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 <h2 id="contribuye">Contribuye</h2>
 <p>Si tienes sugerencias de que podría hacer mejor este proyecto, por favor crea un fork de este repositorio y envia un pull request, simplemente abre un issue con el tag “enhancement”.<br>
@@ -102,15 +96,12 @@ No olvides dar una estrella a este proyecto ¡muchas gracias!.</p>
 <li>envia un push a la rama (<code>git push origin feature/newFeature</code>)</li>
 <li>Abre un  Pull Request</li>
 </ol>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 <h2 id="licencia">Licencia</h2>
 <p>Mit Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 <h2 id="contacto">Contacto</h2>
 <p>Linkedin - <a href="https://www.linkedin.com/in/jpinedadev/">@jpinedadev</a> -<br>
 Twitter - <a href="https://twitter.com/Jpinedadev">@jpinedadev</a> -</p>
 <p>Link del proyecto: <a href="https://github.com/jpinedadev/NOMBRE_PROYECTO">https://github.com/jpinedadev/NOMBRE_PROYECTO</a></p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
